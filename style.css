@@ -1,0 +1,19 @@
+div {
+	text-align:center;
+	}
+
+div#bandeau {
+	width:100%;
+	height:50px;
+	background-color:#00CCFF;
+	}
+div#contenu {
+	width:100%;
+	height:400px;
+	background-color:#FFCC00;
+	}
+div#piedpage {
+	width:100%;
+	height:50px;
+	background-color:#33FF99;
+	}
