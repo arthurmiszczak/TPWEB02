@@ -1,0 +1,40 @@
+.bleu {
+    color: blue;
+    font-size: 20px;
+}
+div {
+    margin: 1%;
+}
+
+#rouge {
+    color: red;
+    font-size: 30px;
+}
+
+/* Styles pour les tableaux */
+table {
+    border-collapse: collapse;
+    margin: 12px 0;
+    width: auto;
+}
+
+/* textes verts de 15px pour les tableaux 1 et 3 */
+.tableau-vert td {
+    color: green;
+    font-size: 15px;
+    padding: 6px 10px;
+}
+
+/* texte bleu de 15px pour le tableau du milieu */
+.tableau-bleu td {
+    color: blue;
+    font-size: 15px;
+    padding: 6px 10px;
+}
+
+/* texte rouge entre les tableaux */
+.texte-entre {
+    color: red;
+    margin: 8px 0;
+    font-size: 16px;
+}
